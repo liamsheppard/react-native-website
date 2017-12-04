@@ -114,6 +114,7 @@ Restricts the range of possible date/time values.
 | Date | No |
 
 Example with `maximumDate` set to December 31, 2017:
+
 ![](/react-native/docs/assets/DatePickerIOS/maximumDate.gif)
 
 
@@ -145,6 +146,7 @@ The interval at which minutes can be selected.
 | enum(1, 2, 3, 4, 5, 6, 10, 12, 15, 20, 30) | No |
 
 Example with `minuteInterval` set to `10`:
+
 ![](/react-native/docs/assets/DatePickerIOS/minuteInterval.png)
 
 
@@ -159,7 +161,8 @@ The date picker mode.
 | - | - |
 | enum('date', 'time', 'datetime') | No |
 
-Example with `mode` set to `date`, `time`, and `datetime`:
+Examples with `mode` set to `date`, `time`, and `datetime`:
+
 ![](/react-native/docs/assets/DatePickerIOS/mode.png)
 
 
